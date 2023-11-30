@@ -1,2 +1,2 @@
 # TwitterPilot
-TwitterPilot: Your Co-Pilot in Effortless Twitter Management.
+Your Co-Pilot in Effortless Twitter Management.
