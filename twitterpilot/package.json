@@ -6,6 +6,7 @@
     "node-fetch": "^3.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
     "resize-observer-polyfill": "^1.5.1",
     "simplebar": "^6.2.5",
     "twit": "^1.1.20"
